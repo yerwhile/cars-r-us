@@ -1,0 +1,24 @@
+.options {
+    flex-basis: 24%;
+    margin: 2rem 2rem;
+    background-color: beige;
+    border: 1px dashed dodgerblue;
+    padding: 1rem;
+    border-radius: 0.5rem;
+    box-shadow: 0.25rem 0.25rem 0.5rem rgb(143, 143, 143);
+}
+
+.choices {
+    display: flex;
+    justify-content: space-around;
+}
+
+#orders {
+    margin: 1rem 13rem;
+    border: 1px dashed dodgerblue;
+    background-color: aliceblue;
+}
+
+.button {
+    text-align: center;
+}
